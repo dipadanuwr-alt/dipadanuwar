@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title">
-  <title id="title">Avatar placeholder</title>
-  <rect width="100%" height="100%" fill="#0b1220" rx="20"/>
-  <g transform="translate(0,10)">
-    <circle cx="120" cy="80" r="48" fill="#1f2937" stroke="#062231" stroke-width="4"/>
-    <rect x="40" y="140" width="160" height="48" rx="8" fill="#111827" />
-  </g>
-  <text x="120" y="89" font-size="34" text-anchor="middle" fill="#9aa4b2" font-family="sans-serif" dy="0.3em">You</text>
-</svg>
